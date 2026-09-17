@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Accounting House</string>
+    <string name="title_sales_overview">Sales Overview</string>
+    <string name="total_sales">Total Sales</string>
+    <string name="units_sold">Units Sold</string>
+    <string name="top_item">Top Item</string>
+    <string name="avg_sale">Avg. Sale</string>
+    <string name="sales_by_item_circle">Sales Share by Item</string>
+    <string name="items_catalog">Items &amp; Products</string>
+    <string name="recent_transactions">Recent Sales</string>
+    <string name="add_item">Add Item</string>
+    <string name="record_sale">Record Sale</string>
+</resources>

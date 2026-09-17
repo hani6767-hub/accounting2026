@@ -1,0 +1,6 @@
+{
+  "name": "Accounting House",
+  "description": "Accounting House (بيت المحاسبة) - Professional sales accounting system with circular contribution breakdown, role-based multi-user data sharing (Viewer vs Editor access), and automated Gmail backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

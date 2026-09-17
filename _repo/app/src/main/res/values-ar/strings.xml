@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">بيت المحاسبة</string>
+    <string name="title_sales_overview">نظرة عامة على المبيعات</string>
+    <string name="total_sales">إجمالي المبيعات</string>
+    <string name="units_sold">القطع المباعة</string>
+    <string name="top_item">المنتج الأكثر مبيعاً</string>
+    <string name="avg_sale">متوسط الفاتورة</string>
+    <string name="sales_by_item_circle">توزيع المبيعات الدائري</string>
+    <string name="items_catalog">المنتجات والأصناف</string>
+    <string name="recent_transactions">سجل المبيعات</string>
+    <string name="add_item">إضافة صنف</string>
+    <string name="record_sale">تسجيل عملية بيع</string>
+</resources>
